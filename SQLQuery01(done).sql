@@ -1,0 +1,2 @@
+SELECT * FROM Employees
+WHERE EmployeeID LIKE 8

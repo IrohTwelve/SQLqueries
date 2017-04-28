@@ -1,0 +1,2 @@
+SELECT DISTINCT City AS CitiesEmloyeesAreFrom
+FROM employees
